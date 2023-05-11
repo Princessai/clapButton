@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clapButton/static/css/main.e996af86.css",
+    "main.js": "/clapButton/static/js/main.36275d19.js",
+    "static/js/787.60ca44e1.chunk.js": "/clapButton/static/js/787.60ca44e1.chunk.js",
+    "index.html": "/clapButton/index.html",
+    "main.e996af86.css.map": "/clapButton/static/css/main.e996af86.css.map",
+    "main.36275d19.js.map": "/clapButton/static/js/main.36275d19.js.map",
+    "787.60ca44e1.chunk.js.map": "/clapButton/static/js/787.60ca44e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e996af86.css",
+    "static/js/main.36275d19.js"
+  ]
+}
